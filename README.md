@@ -2,6 +2,9 @@
 
 BSc Final Year Project — King's College London
 
+Author: Ishak Arif Bari Nahar
+Supervisor: Dr. David Watson
+
 ## Requirements
 
 Python 3.11 and the following libraries:
