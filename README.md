@@ -2,7 +2,7 @@
 
 BSc Final Year Project — King's College London
 
-- **Author:** Ishak Arif Bari Nahar
+- **Author:** Ishak Arif Bari Nahar (K23001438)
 - **Supervisor:** Dr. David Watson
 
 ## Requirements
